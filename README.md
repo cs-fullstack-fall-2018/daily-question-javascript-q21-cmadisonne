@@ -2,6 +2,8 @@
 
 ### Try/Catch/Throw
 
+KEY: Correct answer is A :-(
+
 The experimentWithTries() function in the following HTML page throws and catches exceptions:
 
 ```
